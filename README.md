@@ -4,6 +4,7 @@ The project comprises a servo with variable speed controlled by STM32 timers, an
 ---
 ![photo of the LCD screen with some graphs](/readme_img/photo.jpg)
 
+![photo of the screen with a graph, presentation of the SensorGraph lib](/readme_img/screen.jpg)
 
 Project schematic:
 ![an electronics schematic for the project](/readme_img/radar_schematic.png)
